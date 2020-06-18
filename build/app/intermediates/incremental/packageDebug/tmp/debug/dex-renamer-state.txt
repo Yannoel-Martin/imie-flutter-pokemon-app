@@ -1,0 +1,4 @@
+#Tue Jun 16 18:16:25 CEST 2020
+base.0=C\:\\Users\\yanno\\Desktop\\workspace\\flutter_workspace\\pokemon_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
