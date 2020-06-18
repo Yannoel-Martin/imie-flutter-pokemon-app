@@ -1,0 +1,24 @@
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:28
+-keep class com.example.pokemonapp.MainActivity { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:135
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:115
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:129
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:110
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:125
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:70
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:84
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:96
+-keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:104
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at C:\Users\yanno\Desktop\workspace\flutter_workspace\pokemon_app\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:23
+-keep class io.flutter.app.FlutterApplication { <init>(); }
